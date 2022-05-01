@@ -4,5 +4,5 @@
 
 ## Exmaple: 
 `└─$ python psEncode.py encode "curl http://TEST.T/index.html"`
-Output:
+<br /> Output: <br />
 ` Powershell.exe -enc YwB1AHIAbAAgAGgAdAB0AHAAOgAvAC8AVABFAFMAVAAuAFQALwBpAG4AZABlAHgALgBoAHQAbQBsAA==   `
