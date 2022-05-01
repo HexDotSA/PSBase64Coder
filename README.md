@@ -3,5 +3,6 @@
 > There are two functions, one for encoding and the other is for decoding.
 
 ## Exmaple: 
-`└─$ python psEncode.py encode "curl http://TEST.T/index.html"
-Powershell.exe -enc YwB1AHIAbAAgAGgAdAB0AHAAOgAvAC8AVABFAFMAVAAuAFQALwBpAG4AZABlAHgALgBoAHQAbQBsAA==   `
+`└─$ python psEncode.py encode "curl http://TEST.T/index.html"`
+Output:
+` Powershell.exe -enc YwB1AHIAbAAgAGgAdAB0AHAAOgAvAC8AVABFAFMAVAAuAFQALwBpAG4AZABlAHgALgBoAHQAbQBsAA==   `
